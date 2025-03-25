@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Katana LinkedIn Feed]]></title>
+        <description><![CDATA[Latest posts from Katana LinkedIn page]]></description>
+        <link>https://ee.linkedin.com/company/katanamrp</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 25 Mar 2025 17:20:18 GMT</lastBuildDate>
+        <atom:link href="https://henc313.github.io/linkedin-rss/feed.xml" rel="self" type="application/rss+xml"/>
+        <language><![CDATA[en]]></language>
+    </channel>
+</rss>
