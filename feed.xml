@@ -4,9 +4,16 @@
         <description><![CDATA[Filtered LinkedIn posts for Slack via RSS.app]]></description>
         <link>https://ee.linkedin.com/company/katanamrp</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Mar 2025 18:39:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 19:11:37 GMT</lastBuildDate>
         <atom:link href="https://henc313.github.io/linkedin-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
+        <item>
+            <title><![CDATA[🚀 Test post from Katana (fake)]]></title>
+            <description><![CDATA[This is a test post to trigger Slack RSS.]]></description>
+            <link>https://linkedin.com/company/katanamrp-test-post</link>
+            <guid isPermaLink="false">test-post-123</guid>
+            <pubDate>Tue, 25 Mar 2025 19:11:37 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[🚨 𝗡𝗲𝘄 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗱𝗿𝗼𝗽: Our product tea...]]></title>
             <description><![CDATA[<div><img src="https://media.licdn.com/dms/image/v2/D4D10AQEXKWrtGHGlbQ/image-shrink_800/B4DZXNjInnHwAk-/0/1742910294892?e=2147483647&v=beta&t=1ol11Qce9K1EfYqD5yXgFebpfc7uB9NwdQ4D6gDJnxA" style="width: 100%;" /><div>🚨 𝗡𝗲𝘄 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗱𝗿𝗼𝗽: Our product team has been hard at work and just released another highly-requested feature — 𝘀𝗲𝗹𝗹𝗶𝗻𝗴 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀! 🙌
