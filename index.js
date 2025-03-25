@@ -1,62 +1,35 @@
-// linkedin-rss-generator/index.js
-const axios = require('axios');
-const cheerio = require('cheerio');
-const fs = require('fs');
+// index.js
+const Parser = require('rss-parser');
 const RSS = require('rss');
+const fs = require('fs');
 
-const LINKEDIN_URL = 'https://ee.linkedin.com/company/katanamrp';
-const OUTPUT_FILE = './public/feed.xml';
+const parser = new Parser();
+const FEED_URL = 'https://rss.app/feeds/DL6jxPw6d981y5ot.xml';
+const OUTPUT_FILE = './feed.xml';
 
-async function fetchLinkedInPosts() {
-  const { data } = await axios.get(LINKEDIN_URL);
-  const $ = cheerio.load(data);
-  const items = [];
+(async () => {
+  const original = await parser.parseURL(FEED_URL);
 
-  $('script[type="application/ld+json"]').each((_, el) => {
-    const json = JSON.parse($(el).html());
-    if (json && json.mainEntityofPage && json.mainEntityofPage['@type'] === 'SocialMediaPosting') {
-      const content = json.articleBody || '';
-      const link = json.mainEntityofPage['@id'];
-      const image = json.image?.contentUrl;
-
-      items.push({
-        title: content.slice(0, 50) + (content.length > 50 ? '...' : ''),
-        description: content,
-        url: link,
-        image,
-        date: new Date(json.datePublished)
-      });
-    }
-  });
-
-  return items;
-}
-
-async function generateRSS() {
   const feed = new RSS({
-    title: 'Katana LinkedIn Feed',
-    description: 'Latest posts from Katana LinkedIn page',
+    title: 'Katana LinkedIn (Cleaned)',
+    description: 'Filtered LinkedIn posts for Slack via RSS.app',
     feed_url: 'https://henc313.github.io/linkedin-rss/feed.xml',
-    site_url: LINKEDIN_URL,
+    site_url: 'https://ee.linkedin.com/company/katanamrp',
     language: 'en',
   });
 
-  const posts = await fetchLinkedInPosts();
-  posts.forEach(post => {
+  original.items.slice(0, 5).forEach((item) => {
+    const cleanTitle = item.title.length > 50 ? item.title.slice(0, 50) + '...' : item.title;
     feed.item({
-      title: post.title,
-      description: post.image
-        ? `<p>${post.description}</p><img src="${post.image}" />`
-        : post.description,
-      url: post.url,
-      date: post.date,
+      title: cleanTitle,
+      description: item.content || '',
+      url: item.link,
+      guid: item.link, // Important: avoid duplicates in Slack
+      date: item.pubDate || new Date().toUTCString(),
     });
   });
 
-  fs.mkdirSync('./public', { recursive: true });
   fs.writeFileSync(OUTPUT_FILE, feed.xml({ indent: true }));
-  console.log('✅ RSS feed generated');
-}
-
-generateRSS().catch(console.error);
+  console.log('✅ Cleaned RSS feed generated');
+})();
 
