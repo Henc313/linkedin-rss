@@ -1,21 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Katana LinkedIn (Cleaned)]]></title>
+        <title><![CDATA[Katana LinkedIn]]></title>
         <description><![CDATA[Filtered LinkedIn posts for Slack via RSS.app]]></description>
         <link>https://ee.linkedin.com/company/katanamrp</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Tue, 25 Mar 2025 19:11:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Mar 2025 16:57:55 GMT</lastBuildDate>
         <atom:link href="https://henc313.github.io/linkedin-rss/feed.xml" rel="self" type="application/rss+xml"/>
         <language><![CDATA[en]]></language>
         <item>
-            <title><![CDATA[🚀 Test post from Katana (fake)]]></title>
-            <description><![CDATA[This is a test post to trigger Slack RSS.]]></description>
-            <link>https://linkedin.com/company/katanamrp-test-post</link>
-            <guid isPermaLink="false">test-post-123</guid>
-            <pubDate>Tue, 25 Mar 2025 19:11:37 GMT</pubDate>
+            <title><![CDATA[Have you already tried out Katana's native #HubSpot integration?⚡ 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗞𝗮𝘁𝗮𝗻𝗮 𝘄𝗶𝘁𝗵 𝗛𝘂𝗯𝗦𝗽𝗼𝘁 𝗲𝗻𝗮...]]></title>
+            <description><![CDATA[<div><img src="https://media.licdn.com/dms/image/v2/D4D10AQEcEfbh7VbBqA/image-shrink_1280/B4DZXSwWlKHkAM-/0/1742997646159?e=2147483647&v=beta&t=_MNow1i9K6D4Gf5zdL1-VLhYU7XdEmhunGCr7hC82us" style="width: 100%;" /><div>Have you already tried out Katana's native <a class="link" href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fhubspot&trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">#HubSpot</a> integration?⚡
+
+𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗻𝗴 𝗞𝗮𝘁𝗮𝗻𝗮 𝘄𝗶𝘁𝗵 𝗛𝘂𝗯𝗦𝗽𝗼𝘁 𝗲𝗻𝗮𝗯𝗹𝗲𝘀 𝘆𝗼𝘂 𝘁𝗼:
+🔁 Automatically import sales orders from won deals
+✅ Use triggers to keep order fulfillment and production in sync
+📊 Make better decisions with accurate, real-time inventory and production data
+
+Get a shared source of truth between your sales and operations teams, and streamline your entire order-to-delivery process.
+
+🔗 𝗟𝗲𝗮𝗿𝗻 𝗺𝗼𝗿𝗲 𝗵𝗲𝗿𝗲: <a class="link" href="https://hubs.li/Q03dtBW90?trk=organization_guest_main-feed-card-text" target="_self" rel="nofollow" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">https://hubs.li/Q03dtBW90</a></div></div>]]></description>
+            <link>https://www.linkedin.com/feed/update/urn:li:activity:7310662002480181248</link>
+            <guid isPermaLink="false">https://www.linkedin.com/feed/update/urn:li:activity:7310662002480181248</guid>
+            <pubDate>Wed, 26 Mar 2025 14:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[🚨 𝗡𝗲𝘄 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗱𝗿𝗼𝗽: Our product tea...]]></title>
+            <title><![CDATA[🚨 𝗡𝗲𝘄 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗱𝗿𝗼𝗽: Our product team has been hard at work and just released another highly-requested feature ]]></title>
             <description><![CDATA[<div><img src="https://media.licdn.com/dms/image/v2/D4D10AQEXKWrtGHGlbQ/image-shrink_800/B4DZXNjInnHwAk-/0/1742910294892?e=2147483647&v=beta&t=1ol11Qce9K1EfYqD5yXgFebpfc7uB9NwdQ4D6gDJnxA" style="width: 100%;" /><div>🚨 𝗡𝗲𝘄 𝗳𝗲𝗮𝘁𝘂𝗿𝗲 𝗱𝗿𝗼𝗽: Our product team has been hard at work and just released another highly-requested feature — 𝘀𝗲𝗹𝗹𝗶𝗻𝗴 𝘀𝗲𝗿𝘃𝗶𝗰𝗲𝘀! 🙌
 
 From installation and repairs to subscriptions and custom work, many businesses offer services alongside physical products. But most inventory systems aren’t built for that — until now.
@@ -34,10 +43,10 @@ Whether you’re offering tailoring, training, warranties, or white-label packag
 🔗 <a class="link" href="https://hubs.li/Q03dhRBK0?trk=organization_guest_main-feed-card-text" target="_self" rel="nofollow" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">https://hubs.li/Q03dhRBK0</a></div></div>]]></description>
             <link>https://www.linkedin.com/feed/update/urn:li:activity:7310295645456666625</link>
             <guid isPermaLink="false">https://www.linkedin.com/feed/update/urn:li:activity:7310295645456666625</guid>
-            <pubDate>Tue, 25 Mar 2025 14:30:38 GMT</pubDate>
+            <pubDate>Tue, 25 Mar 2025 16:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[From sales to production, seamlessly with Katana a...]]></title>
+            <title><![CDATA[From sales to production, seamlessly with Katana and HubSpot. Want to know how? 👉 𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗻𝗼𝘄 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗹𝗶𝘃𝗲 ...]]></title>
             <description><![CDATA[<div><img src="https://media.licdn.com/dms/image/v2/D4D10AQFkFI2aeAodKw/image-shrink_800/B4DZXIcrEwHwAc-/0/1742824715582?e=2147483647&v=beta&t=00QNVzKVsx0HLl356oMcTOL2KPRLWRp8g--QIFTEDGI" style="width: 100%;" /><div>From sales to production, seamlessly with Katana and HubSpot. Want to know how?
  👉 𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗻𝗼𝘄 𝗳𝗼𝗿 𝘁𝗵𝗲 𝗹𝗶𝘃𝗲 𝘄𝗲𝗯𝗶𝗻𝗮𝗿: <a class="link" href="https://hubs.li/Q03d4mg00?trk=organization_guest_main-feed-card-text" target="_self" rel="nofollow" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">https://hubs.li/Q03d4mg00</a>
 
@@ -50,19 +59,19 @@ Whether you're already using HubSpot or just curious, this session will show you
 <a class="link" href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fhubspotintegration&trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">#HubSpotIntegration</a> <a class="link" href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fmanufacturingworkflow&trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">#ManufacturingWorkflow</a> <a class="link" href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fsalestoproduction&trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">#SalesToProduction</a> <a class="link" href="https://www.linkedin.com/signup?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Ffeed%2Fhashtag%2Fwebinar&trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">#Webinar</a></div></div>]]></description>
             <link>https://www.linkedin.com/feed/update/urn:li:activity:7309936699571146753</link>
             <guid isPermaLink="false">https://www.linkedin.com/feed/update/urn:li:activity:7309936699571146753</guid>
-            <pubDate>Mon, 24 Mar 2025 18:30:38 GMT</pubDate>
+            <pubDate>Mon, 24 Mar 2025 16:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[🎉This week, the Katana office transformed into a ...]]></title>
+            <title><![CDATA[🎉This week, the Katana office transformed into a full-blown Latin fiesta! 🌮 With our very own self-taught DJs bringing the heat ...]]></title>
             <description><![CDATA[<div><img src="https://media.licdn.com/dms/image/v2/D4D10AQF2kjXS2rO9Ew/image-shrink_1280/B4DZW4.xloHwAM-/0/1742565219371?e=2147483647&v=beta&t=73K-m0ulxyV292DCxK4wXtPTnC1l8D9wKByQ034XBKs" style="width: 100%;" /><div>🎉This week, the Katana office transformed into a full-blown Latin fiesta! 🌮 With our very own self-taught DJs bringing the heat with an epic mix of Latin beats, the energy was off the charts! 💃🕺
 
 This event, led by our talented Katanauts, was all about coming together — dancing, mingling, and soaking up the good vibes. From tacos to tunes, it was a night to remember!</div></div>]]></description>
             <link>https://www.linkedin.com/feed/update/urn:li:activity:7308848320922226688</link>
             <guid isPermaLink="false">https://www.linkedin.com/feed/update/urn:li:activity:7308848320922226688</guid>
-            <pubDate>Fri, 21 Mar 2025 18:30:38 GMT</pubDate>
+            <pubDate>Fri, 21 Mar 2025 16:37:20 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[𝗛𝗼𝘄 𝗰𝗮𝗻 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗼𝘄𝗻𝗲𝗿𝘀 𝘀𝘁𝗮...]]></title>
+            <title><![CDATA[𝗛𝗼𝘄 𝗰𝗮𝗻 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗼𝘄𝗻𝗲𝗿𝘀 𝘀𝘁𝗮𝘆 𝗮𝗵𝗲𝗮𝗱 𝗶𝗻 𝘁𝘂𝗿𝗯𝘂𝗹𝗲𝗻𝘁 𝗺𝗮𝗿𝗸𝗲𝘁𝘀? 🌊 Our Co-CEO Ben H. break...]]></title>
             <description><![CDATA[<div>𝗛𝗼𝘄 𝗰𝗮𝗻 𝗯𝘂𝘀𝗶𝗻𝗲𝘀𝘀 𝗼𝘄𝗻𝗲𝗿𝘀 𝘀𝘁𝗮𝘆 𝗮𝗵𝗲𝗮𝗱 𝗶𝗻 𝘁𝘂𝗿𝗯𝘂𝗹𝗲𝗻𝘁 𝗺𝗮𝗿𝗸𝗲𝘁𝘀? 🌊
 
 Our Co-CEO <a class="link" href="https://ca.linkedin.com/in/benhussey?trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">Ben H.</a> breaks it down in his latest <a class="link" href="https://www.linkedin.com/company/smallbizclub?trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">SmallBizClub</a> article — agile and resilient supply chains are the key. 🔑
@@ -72,18 +81,7 @@ As we move through 2025 and beyond, leveraging technology to streamline operatio
 𝗥𝗲𝗮𝗱 𝘁𝗵𝗲 𝗳𝘂𝗹𝗹 𝗮𝗿𝘁𝗶𝗰𝗹𝗲 𝗵𝗲𝗿𝗲: <a class="link" href="https://hubs.li/Q03cHDPt0?trk=organization_guest_main-feed-card-text" target="_self" rel="nofollow" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">https://hubs.li/Q03cHDPt0</a></div>]]></description>
             <link>https://www.linkedin.com/feed/update/urn:li:activity:7308484461807964161</link>
             <guid isPermaLink="false">https://www.linkedin.com/feed/update/urn:li:activity:7308484461807964161</guid>
-            <pubDate>Thu, 20 Mar 2025 18:30:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Are you ready for next week's webinar showcasing h...]]></title>
-            <description><![CDATA[<div><img src="https://media.licdn.com/dms/image/v2/D4D10AQG3JTfDAMs3Cw/image-shrink_800/B4DZWuqXR2G4Ag-/0/1742392096991?e=2147483647&v=beta&t=Cp5OxruUaMI7MJ8Gf5X422hP0enXKbyR_JfC1jwvFiM" style="width: 100%;" /><div>Are you ready for next week's webinar showcasing how to streamline your sales-to-production workflows with Katana's new <a class="link" href="https://www.linkedin.com/company/hubspot?trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">HubSpot</a> integration?
-🔗 𝗥𝗲𝗴𝗶𝘀𝘁𝗲𝗿 𝗵𝗲𝗿𝗲: <a class="link" href="https://hubs.ly/Q03cw7DJ0?trk=organization_guest_main-feed-card-text" target="_self" rel="nofollow" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">https://hubs.ly/Q03cw7DJ0</a>
-
-To see the integration in action before, check out the demo by <a class="link" href="https://www.linkedin.com/in/dsingletary?trk=organization_guest_main-feed-card-text" target="_self" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">David Singletary</a>.
-𝗛𝘂𝗯𝗦𝗽𝗼𝘁 𝗶𝗻𝘁𝗲𝗴𝗿𝗮𝘁𝗶𝗼𝗻 𝗱𝗲𝗺𝗼: <a class="link" href="https://hubs.ly/Q03cvQmd0?trk=organization_guest_main-feed-card-text" target="_self" rel="nofollow" data-tracking-control-name="organization_guest_main-feed-card-text" data-tracking-will-navigate="">https://hubs.ly/Q03cvQmd0</a></div></div>]]></description>
-            <link>https://www.linkedin.com/feed/update/urn:li:activity:7308122164891738113</link>
-            <guid isPermaLink="false">https://www.linkedin.com/feed/update/urn:li:activity:7308122164891738113</guid>
-            <pubDate>Wed, 19 Mar 2025 18:30:38 GMT</pubDate>
+            <pubDate>Thu, 20 Mar 2025 16:37:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
