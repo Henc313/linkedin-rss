@@ -11,7 +11,7 @@ const OUTPUT_FILE = './feed.xml';
   const original = await parser.parseURL(FEED_URL);
 
   const feed = new RSS({
-    title: 'Katana LinkedIn (Cleaned)',
+    title: 'Katana LinkedIn',
     description: 'Filtered LinkedIn posts for Slack via RSS.app',
     feed_url: 'https://henc313.github.io/linkedin-rss/feed.xml',
     site_url: 'https://ee.linkedin.com/company/katanamrp',
@@ -19,7 +19,7 @@ const OUTPUT_FILE = './feed.xml';
   });
 
   original.items.slice(0, 5).forEach((item) => {
-    const cleanTitle = item.title.length > 50 ? item.title.slice(0, 50) + '...' : item.title;
+    const cleanTitle = item.title.length > 150 ? item.title.slice(0, 150) + '...' : item.title;
     feed.item({
       title: cleanTitle,
       description: item.content || '',
